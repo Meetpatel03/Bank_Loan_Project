@@ -33,7 +33,7 @@ This project highlights the following critical performance indicators (KPIs):
 - Average Interest Rate
 - Debt-to-Income Ratio (DTI) Average
 - Metrics for Performing Loans
-- Metrics for Non-Performing Loans
+- Metrics for Non-Performing Loan
 
 ## Data Overview
 
